@@ -1,6 +1,6 @@
 
 </b> Stockholms Universitet</b><br>
-<b>Programmeringsteknik för lingvister</br> [Programming Techniques for Linguists] <br>
+<b>Programmeringsteknik för lingvister</b> [Programming Techniques for Linguists] <br>
 Random Sentence Generation<br>
 
 <H1>Description</h1>
