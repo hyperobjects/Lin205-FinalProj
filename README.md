@@ -13,3 +13,5 @@ Randomly generated sentence using the author’s bigram probabilities
 
 pip install -U nltk <br>
 nltk.download() #download data <br>
+
+pip install urllib<br>
