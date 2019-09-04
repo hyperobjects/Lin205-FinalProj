@@ -9,7 +9,7 @@ Ebooks downloaded from Project Gutenberg
 <h3> Output:</h3>
 Randomly generated sentence using the author’s bigram probabilities
 
-<h2> Dependencies</h2>
+<h2> Dependencies:</h2>
 
-pip install -U nltk
-nltk.download() #download data
+pip install -U nltk <br>
+nltk.download() #download data <br>
