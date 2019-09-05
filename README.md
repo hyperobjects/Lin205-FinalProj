@@ -12,6 +12,6 @@ Randomly generated sentence using the author’s bigram probabilities
 <h2> Dependencies:</h2>
 
 pip install -U nltk <br>
-nltk.download() # download data <br>
+nltk.download() # execute in python and select which NLTK corpora to download
 
 pip install urllib<br>
